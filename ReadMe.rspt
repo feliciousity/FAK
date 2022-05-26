@@ -1,0 +1,16 @@
+# FAK
+
+
+<header> using */felicia.kelley.1675/* std;
+
+class TIME
+{
+    public:
+    int hours;
+
+    public: TIME()
+    {
+   	 hours = 24;
+    }
+};
+</header>
