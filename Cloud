@@ -1,0 +1,18 @@
+`This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>Cloud Blog</title>
+<link>https://cloud.google.com/blog/</link>
+<description>Cloud Blog</description>
+<atom:link href="https://cloudblog.withgoogle.com/rss/" rel="self"/>
+<language>en</language>
+<lastBuildDate>Tue, 21 Jun 2022 04:00:00 -0000</lastBuildDate>
+<image>
+<url>https://gweb-cloudblog-publish.appspot.com/static/blog/images/google.a51985becaa6.png</url>
+<title>Cloud Blog</title>
+<link>https://cloud.google.com/blog/</link>
+</image>
+<item>
+<title>Commerzbank has Reimagined the Customer Experience with Google Contact Center AI</title>
+<link>https://cloud.google.com/blog/products/ai-machine-learning/commerzbank-shows-how-chatbots-transform-customer-service/</link>
+<description><html><head></head><body><div class="block-paragraph"><div class="rich-text"><p>Digital channels and on-demand banking have led customers to expect instant and helpful access to managing their finances, with minimal friction. Google Cloud built <a href="https://cloud.google.com/solutions/contact-center">Contact Center AI (CCAI)</a> and <a href="https://cloud.google.com/dialogflow">DialogFlow CX  `
